@@ -22,7 +22,7 @@ The message and key are converted into numerical values with the following conve
       69: "f", 70: "g", 71: "h", 72: "i", 73: "j", 74: "k", 75: "l", 76: "m", 77: "n", 78: "o",
       79: "p", 80: "q", 81: "r", 82: "s", 83: "t", 84: "u", 85: "v", 86: "w", 87: "x", 88: "y",
       89: "z", 90: "{", 91: "|", 92: "}", 93: "~"
-      
+
 This conversion table is not necessary to use and can be substituted with a simpler 0-26 if
 only using non case sensitive lettering.
 
@@ -52,7 +52,8 @@ So, 103 115 122 118 114 becomes:
 
 Then we can easily  convert to the corresponding letters. 10 22 29 25 21 becomes:
 
-+ 7 > : 6
+"+7>:6"
+
 
 This is our encrypted message!
 
